@@ -1,0 +1,7 @@
+C:\Users\eas\source\repos\GetEncoding\bin\Debug\GetEncoding.exe.config
+C:\Users\eas\source\repos\GetEncoding\bin\Debug\GetEncoding.exe
+C:\Users\eas\source\repos\GetEncoding\bin\Debug\GetEncoding.pdb
+C:\Users\eas\source\repos\GetEncoding\obj\Debug\GetEncoding.csproj.AssemblyReference.cache
+C:\Users\eas\source\repos\GetEncoding\obj\Debug\GetEncoding.csproj.CoreCompileInputs.cache
+C:\Users\eas\source\repos\GetEncoding\obj\Debug\GetEncoding.exe
+C:\Users\eas\source\repos\GetEncoding\obj\Debug\GetEncoding.pdb
