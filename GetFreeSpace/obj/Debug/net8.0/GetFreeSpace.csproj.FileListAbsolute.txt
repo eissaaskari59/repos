@@ -1,0 +1,15 @@
+C:\Users\eas\source\repos\GetFreeSpace\bin\Debug\net8.0\GetFreeSpace.exe
+C:\Users\eas\source\repos\GetFreeSpace\bin\Debug\net8.0\GetFreeSpace.deps.json
+C:\Users\eas\source\repos\GetFreeSpace\bin\Debug\net8.0\GetFreeSpace.runtimeconfig.json
+C:\Users\eas\source\repos\GetFreeSpace\bin\Debug\net8.0\GetFreeSpace.dll
+C:\Users\eas\source\repos\GetFreeSpace\bin\Debug\net8.0\GetFreeSpace.pdb
+C:\Users\eas\source\repos\GetFreeSpace\obj\Debug\net8.0\GetFreeSpace.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eas\source\repos\GetFreeSpace\obj\Debug\net8.0\GetFreeSpace.AssemblyInfoInputs.cache
+C:\Users\eas\source\repos\GetFreeSpace\obj\Debug\net8.0\GetFreeSpace.AssemblyInfo.cs
+C:\Users\eas\source\repos\GetFreeSpace\obj\Debug\net8.0\GetFreeSpace.csproj.CoreCompileInputs.cache
+C:\Users\eas\source\repos\GetFreeSpace\obj\Debug\net8.0\GetFreeSpace.sourcelink.json
+C:\Users\eas\source\repos\GetFreeSpace\obj\Debug\net8.0\GetFreeSpace.dll
+C:\Users\eas\source\repos\GetFreeSpace\obj\Debug\net8.0\refint\GetFreeSpace.dll
+C:\Users\eas\source\repos\GetFreeSpace\obj\Debug\net8.0\GetFreeSpace.pdb
+C:\Users\eas\source\repos\GetFreeSpace\obj\Debug\net8.0\GetFreeSpace.genruntimeconfig.cache
+C:\Users\eas\source\repos\GetFreeSpace\obj\Debug\net8.0\ref\GetFreeSpace.dll
