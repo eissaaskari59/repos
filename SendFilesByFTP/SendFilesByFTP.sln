@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SendFilesByFTP", "SendFilesByFTP.csproj", "{C7031724-C465-4DC9-9833-85C2D141B62A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C7031724-C465-4DC9-9833-85C2D141B62A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C7031724-C465-4DC9-9833-85C2D141B62A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C7031724-C465-4DC9-9833-85C2D141B62A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C7031724-C465-4DC9-9833-85C2D141B62A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {76DB7FEF-D068-43B0-A367-908C484DE880}
+	EndGlobalSection
+EndGlobal

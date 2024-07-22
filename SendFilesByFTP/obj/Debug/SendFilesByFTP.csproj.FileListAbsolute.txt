@@ -1,0 +1,7 @@
+C:\Users\eas\source\repos\ReadFTP\bin\Debug\SendFilesByFTP.exe.config
+C:\Users\eas\source\repos\ReadFTP\bin\Debug\SendFilesByFTP.exe
+C:\Users\eas\source\repos\ReadFTP\bin\Debug\SendFilesByFTP.pdb
+C:\Users\eas\source\repos\ReadFTP\obj\Debug\SendFilesByFTP.csproj.AssemblyReference.cache
+C:\Users\eas\source\repos\ReadFTP\obj\Debug\SendFilesByFTP.csproj.CoreCompileInputs.cache
+C:\Users\eas\source\repos\ReadFTP\obj\Debug\SendFilesByFTP.exe
+C:\Users\eas\source\repos\ReadFTP\obj\Debug\SendFilesByFTP.pdb
