@@ -1,0 +1,7 @@
+C:\Users\eas\source\repos\GetFilesByFTP\bin\Debug\GetFilesByFTP.exe.config
+C:\Users\eas\source\repos\GetFilesByFTP\bin\Debug\GetFilesByFTP.exe
+C:\Users\eas\source\repos\GetFilesByFTP\bin\Debug\GetFilesByFTP.pdb
+C:\Users\eas\source\repos\GetFilesByFTP\obj\Debug\GetFilesByFTP.csproj.AssemblyReference.cache
+C:\Users\eas\source\repos\GetFilesByFTP\obj\Debug\GetFilesByFTP.csproj.CoreCompileInputs.cache
+C:\Users\eas\source\repos\GetFilesByFTP\obj\Debug\GetFilesByFTP.exe
+C:\Users\eas\source\repos\GetFilesByFTP\obj\Debug\GetFilesByFTP.pdb
