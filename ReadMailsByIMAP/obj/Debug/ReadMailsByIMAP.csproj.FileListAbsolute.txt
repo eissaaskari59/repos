@@ -1,0 +1,11 @@
+C:\Users\eas\source\repos\ReadMailsByIMAP\bin\Debug\ReadMailsByIMAP.exe.config
+C:\Users\eas\source\repos\ReadMailsByIMAP\bin\Debug\ReadMailsByIMAP.exe
+C:\Users\eas\source\repos\ReadMailsByIMAP\bin\Debug\ReadMailsByIMAP.pdb
+C:\Users\eas\source\repos\ReadMailsByIMAP\bin\Debug\Danx.Imap.dll
+C:\Users\eas\source\repos\ReadMailsByIMAP\bin\Debug\Danx.Imap.pdb
+C:\Users\eas\source\repos\ReadMailsByIMAP\bin\Debug\Danx.Imap.xml
+C:\Users\eas\source\repos\ReadMailsByIMAP\obj\Debug\ReadMailsByIMAP.csproj.AssemblyReference.cache
+C:\Users\eas\source\repos\ReadMailsByIMAP\obj\Debug\ReadMailsByIMAP.csproj.CoreCompileInputs.cache
+C:\Users\eas\source\repos\ReadMailsByIMAP\obj\Debug\ReadMail.5E31E8D3.Up2Date
+C:\Users\eas\source\repos\ReadMailsByIMAP\obj\Debug\ReadMailsByIMAP.exe
+C:\Users\eas\source\repos\ReadMailsByIMAP\obj\Debug\ReadMailsByIMAP.pdb
