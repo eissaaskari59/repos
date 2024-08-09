@@ -1,6 +1,8 @@
 ﻿using Danx.Imap;
 using System;
 using System.Collections.Generic;
+using System.Data;
+using System.Data.SqlClient;
 using System.Linq;
 using System.Net.Mail;
 using System.Text;
@@ -12,6 +14,7 @@ namespace ReadMailsByIMAP
     {
         static void Main(string[] args)
         {
+
             List<KeyValuePair<string, string>> allresult = new List<KeyValuePair<string, string>>();
             string result = MailCommandsHandleByMail(ref allresult, "server;port;user;pass;", 0);
 
