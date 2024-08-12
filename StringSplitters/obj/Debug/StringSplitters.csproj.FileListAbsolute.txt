@@ -1,0 +1,7 @@
+C:\Users\eas\source\repos\StringSplitters\bin\Debug\StringSplitters.exe.config
+C:\Users\eas\source\repos\StringSplitters\bin\Debug\StringSplitters.exe
+C:\Users\eas\source\repos\StringSplitters\bin\Debug\StringSplitters.pdb
+C:\Users\eas\source\repos\StringSplitters\obj\Debug\StringSplitters.csproj.AssemblyReference.cache
+C:\Users\eas\source\repos\StringSplitters\obj\Debug\StringSplitters.csproj.CoreCompileInputs.cache
+C:\Users\eas\source\repos\StringSplitters\obj\Debug\StringSplitters.exe
+C:\Users\eas\source\repos\StringSplitters\obj\Debug\StringSplitters.pdb
