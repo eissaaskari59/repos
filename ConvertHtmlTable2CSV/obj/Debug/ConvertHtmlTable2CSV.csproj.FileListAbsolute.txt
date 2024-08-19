@@ -1,0 +1,13 @@
+C:\Users\eas\source\repos\ConvertHtmlTable2CSV\obj\Debug\ConvertHtmlTable2CSV.csproj.AssemblyReference.cache
+C:\Users\eas\source\repos\ConvertHtmlTable2CSV\obj\Debug\ConvertHtmlTable2CSV.csproj.CoreCompileInputs.cache
+C:\Users\eas\source\repos\ConvertHtmlTable2CSV\bin\Debug\ConvertHtmlTable2CSV.exe.config
+C:\Users\eas\source\repos\ConvertHtmlTable2CSV\bin\Debug\ConvertHtmlTable2CSV.exe
+C:\Users\eas\source\repos\ConvertHtmlTable2CSV\bin\Debug\ConvertHtmlTable2CSV.pdb
+C:\Users\eas\source\repos\ConvertHtmlTable2CSV\bin\Debug\TrackItSilentApplicationsFramework.dll
+C:\Users\eas\source\repos\ConvertHtmlTable2CSV\bin\Debug\TrackItSilentApplicationsFrameworkCore.dll
+C:\Users\eas\source\repos\ConvertHtmlTable2CSV\bin\Debug\Newtonsoft.Json.dll
+C:\Users\eas\source\repos\ConvertHtmlTable2CSV\obj\Debug\ConvertHtmlTable2CSV.csproj.SuggestedBindingRedirects.cache
+C:\Users\eas\source\repos\ConvertHtmlTable2CSV\obj\Debug\ConvertHtmlTable2CSV.exe.config
+C:\Users\eas\source\repos\ConvertHtmlTable2CSV\obj\Debug\ConvertH.399960D2.Up2Date
+C:\Users\eas\source\repos\ConvertHtmlTable2CSV\obj\Debug\ConvertHtmlTable2CSV.exe
+C:\Users\eas\source\repos\ConvertHtmlTable2CSV\obj\Debug\ConvertHtmlTable2CSV.pdb
