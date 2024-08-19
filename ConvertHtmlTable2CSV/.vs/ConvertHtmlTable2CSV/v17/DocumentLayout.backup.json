@@ -3,14 +3,11 @@
   "WorkspaceRootPath": "C:\\Users\\eas\\source\\repos\\ConvertHtmlTable2CSV\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|ConvertHtmlTable2CSV||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AF5F497A-5355-4F5B-9AED-65B730F210CB}|ConvertHtmlTable2CSV.csproj|C:\\Users\\eas\\source\\repos\\ConvertHtmlTable2CSV\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{AF5F497A-5355-4F5B-9AED-65B730F210CB}|ConvertHtmlTable2CSV.csproj|c:\\users\\eas\\source\\repos\\converthtmltable2csv\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AF5F497A-5355-4F5B-9AED-65B730F210CB}|ConvertHtmlTable2CSV.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AF5F497A-5355-4F5B-9AED-65B730F210CB}|ConvertHtmlTable2CSV.csproj|c:\\users\\eas\\source\\repos\\converthtmltable2csv\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|5e9a8ac2-4f34-4521-858f-4c248ba31532"
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|ConvertHtmlTable2CSV||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -20,7 +17,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Bookmark",
@@ -48,27 +45,27 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "ConvertHtmlTable2CSV",
               "DocumentMoniker": "C:\\Users\\eas\\source\\repos\\ConvertHtmlTable2CSV\\ConvertHtmlTable2CSV.csproj",
               "RelativeDocumentMoniker": "ConvertHtmlTable2CSV.csproj",
               "ToolTip": "C:\\Users\\eas\\source\\repos\\ConvertHtmlTable2CSV\\ConvertHtmlTable2CSV.csproj",
               "RelativeToolTip": "ConvertHtmlTable2CSV.csproj",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2024-08-16T11:53:13.122Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-16T11:53:13.122Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\eas\\source\\repos\\ConvertHtmlTable2CSV\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\eas\\source\\repos\\ConvertHtmlTable2CSV\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-16T11:41:58.832Z"
+              "WhenOpened": "2024-08-16T11:41:58.832Z",
+              "EditorCaption": ""
             }
           ]
         }
