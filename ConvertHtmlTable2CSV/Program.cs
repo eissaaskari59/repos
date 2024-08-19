@@ -13,8 +13,6 @@ namespace ConvertHtmlTable2CSV
         static void Main(string[] args)
         {
             string csvstring = ConvertHtmlToCSV("<table><tr><td>value1</td><td>value2</td></tr></table>");
-
-
         }
         public static string ConvertHtmlToCSV(string htmlinputstring, string excelseparator = ";", string options = "", string lineseperator="")
         {

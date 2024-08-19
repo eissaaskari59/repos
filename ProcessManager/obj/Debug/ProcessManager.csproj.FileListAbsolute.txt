@@ -1,0 +1,7 @@
+C:\Users\eas\source\repos\ProcessManager\obj\Debug\ProcessManager.csproj.AssemblyReference.cache
+C:\Users\eas\source\repos\ProcessManager\obj\Debug\ProcessManager.csproj.CoreCompileInputs.cache
+C:\Users\eas\source\repos\ProcessManager\bin\Debug\ProcessManager.exe.config
+C:\Users\eas\source\repos\ProcessManager\bin\Debug\ProcessManager.exe
+C:\Users\eas\source\repos\ProcessManager\bin\Debug\ProcessManager.pdb
+C:\Users\eas\source\repos\ProcessManager\obj\Debug\ProcessManager.exe
+C:\Users\eas\source\repos\ProcessManager\obj\Debug\ProcessManager.pdb
